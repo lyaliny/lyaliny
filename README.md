@@ -1,4 +1,4 @@
-- ## 👋 Olá, bem vindo ao GitHub da Aliny Lacerda
+- ## 👋 Olá, bem vindo ao meu GitHub!
 - 📚 Sou interessada em tudo que diz respeito ao mundo front-end
 - ✏️ Atualmente estou estudando React
 - 👔 Trabalho na Repom S/A com desenvolvimento front-end
